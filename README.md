@@ -46,7 +46,7 @@ criteria in check.
    
 
 # Sample Run Log
-
+```
 Enter total number of users :
 10
 Enter user_id or Q to exit:
@@ -92,4 +92,5 @@ Enter user_id or Q to exit:
 Q
 
 Process finished with exit code 0
+```
 
